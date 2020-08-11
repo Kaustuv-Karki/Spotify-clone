@@ -11,7 +11,7 @@ const SidebarOptions = ({title, Icon}) => {
                 )
                  :
                  <p>{title}</p> 
-            }
+            } 
         </div>
     )
 }
